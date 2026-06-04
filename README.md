@@ -210,7 +210,6 @@ The database was designed using Cloud Firestore to support real-time synchroniza
 
 The repository includes:
 
-* System Architecture Diagram
 * ER Diagram
 * Use Case Diagram
 * Class Diagram

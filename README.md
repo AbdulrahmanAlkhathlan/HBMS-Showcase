@@ -178,7 +178,7 @@ The database was designed using Cloud Firestore to support real-time synchroniza
 
 ### Ministry Dashboard
 
-<img src="screenshots/ministry_dashboard.png" width="500">
+<img src="screenshots/ministry_dashboard.png" width="350">
 
 ### Company Dashboard
 

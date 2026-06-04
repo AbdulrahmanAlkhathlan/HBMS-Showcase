@@ -1,5 +1,10 @@
 # Hajj Bus Management System (HBMS)
 
+![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-Database-yellow)
+![Google_Maps](https://img.shields.io/badge/Google_Maps-Tracking-green)
+
 ## Overview
 
 The Hajj Bus Management System (HBMS) is a mobile-based transportation management platform developed to support Hajj transportation operations through centralized monitoring, trip management, and real-time bus tracking.

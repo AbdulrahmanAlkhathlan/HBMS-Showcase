@@ -174,7 +174,7 @@ The database was designed using Cloud Firestore to support real-time synchroniza
 
 ### Login Screen
 
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" width="350">
 
 ### Ministry Dashboard
 
@@ -182,27 +182,27 @@ The database was designed using Cloud Firestore to support real-time synchroniza
 
 ### Company Dashboard
 
-![Company Dashboard](screenshots/company_dashboard.png)
+<img src="screenshots/company_dashboard.png" width="350">
 
 ### Office Dashboard
 
-![Office Dashboard](screenshots/office_dashboard.png)
+<img src="screenshots/office_dashboard.png" width="350">
 
 ### Trip Management
 
-![Guide Dashboard](screenshots/trip_management.png)
+<img src="screenshots/trip_management.png" width="350">
 
 ### Guide Dashboard
 
-![Guide Dashboard](screenshots/guide_dashboard.png)
+<img src="screenshots/guide_dashboard.png" width="350">
 
 ### Guide Route
 
-![Guide Dashboard](screenshots/guide_route.png)
+<img src="screenshots/guide_route.png" width="350">
 
 ### Live Tracking
 
-![Live Tracking](screenshots/live_tracking.png)
+<img src="screenshots/live_tracking.png" width="350">
 
 ---
 
